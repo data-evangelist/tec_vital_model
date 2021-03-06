@@ -1,5 +1,5 @@
-# tec_vital_model
-Will My Church Survive?
+# Time-series modeling of parish survival trends
+# Will My Church Survive?
 An Analytical Study of Financial Vitality 
 Goal of the Capstone Project
 In this Capstone Project, my goal is to develop a model to predict whether a church will be able to keep its door open in the long run based on their financial vitality, defined as the ability of a parish to maintain their financial operations and membership.  I will be looking at the publicly available parochial data from Episcopal parishes, coupled with Tapestry demographic datasets derived in part from U.S. census data. While this current model will be built based on the data of The Episcopal Church, my hope is that this can be applied to other types of religious organizations with some adjustments on a case by case basis. 
