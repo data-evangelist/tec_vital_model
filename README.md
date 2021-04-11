@@ -9,5 +9,5 @@ For data cleaning code and graphs, please check out the "data_cleaning" branch.
 
 For feature engineering and graphs, please go to the "feature_engineering" branch.
 
-For time-series model building, please go to the "model_building" branch.
+For machine learning and model building, please go to the "model_building" branch.
 
