@@ -5,9 +5,9 @@ In this Capstone Project, my goal is to develop a model to predict whether a chu
 Prior to this project, the prediction of church survival was often done on an actuarial basis, without necessarily taken into consideration the multifaceted dynamics of church financial viability such as membership and neighborhood shifts. My model will take into consideration the financial and demographic data to predict the most likely outcome for a given church. In other words, will a church close or open? Even if a church predicted to close does not end up closing, the prediction is still helpful as a warning sign which can inform policies and planning.
 
 # Workflow of the Analysis and Prediction in this Repo
-For data cleaning code and graphs, please check out the "Data cleaning" branch.
+For data cleaning code and graphs, please check out the "data_cleaning" branch.
 
-For feature engineering and graphs, please go to the "feature engineering" branch.
+For feature engineering and graphs, please go to the "feature_engineering" branch.
 
-For time-series model building, please go to the "model building" branch.
+For time-series model building, please go to the "model_building" branch.
 
